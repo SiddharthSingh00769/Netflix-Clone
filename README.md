@@ -1,1 +1,1 @@
-<b>Netflix Front-end Clone using Tailwind</b>
+# RNetflix Front-end Clone using Tailwind
